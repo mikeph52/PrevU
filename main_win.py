@@ -1,3 +1,4 @@
+# PrevU 1.0 for MS Windows by mikeph_ 2025
 import os
 import ctypes
 from tkinter import *
@@ -99,4 +100,5 @@ if __name__ == "__main__":
     root = Tk()
     #root.iconbitmap("prevuico.ico") # To Fix 
     app = WallpaperApp(root)
+
     root.mainloop()
