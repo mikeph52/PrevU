@@ -14,5 +14,7 @@ Install the following depedencies using pip:
 - Pillow 12.0.0
 The windows executable was built with PyInstaller.
 
-## Changelog:
+## Changelog
 - 1.0: First release.
+## Issues
+[Fix window ico not defined](https://github.com/mikeph52/PrevU/issues/1)(Open)
