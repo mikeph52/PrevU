@@ -16,5 +16,3 @@ The windows executable was built with PyInstaller.
 
 ## Changelog
 - 1.0: First release.
-## Issues
-[Fix window ico not defined](https://github.com/mikeph52/PrevU/issues/1)(Open)
