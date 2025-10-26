@@ -13,3 +13,6 @@ Install the following depedencies using pip:
 - Tkinter
 - Pillow 12.0.0
 The windows executable was built with PyInstaller.
+
+## Changelog:
+- 1.0: First release.
