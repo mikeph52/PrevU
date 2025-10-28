@@ -15,4 +15,5 @@ Install the following depedencies using pip:
 The windows executable was built with PyInstaller.
 
 ## Changelog
+- 1.1: Fix https://github.com/mikeph52/PrevU/issues/2
 - 1.0: First release.
