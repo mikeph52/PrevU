@@ -1,6 +1,12 @@
 # PrevU
+
 A simple wallpaper browser for Microsoft Windows, written in Python.
+
 ![screenshot](demo.png)
+
+![License](https://img.shields.io/github/license/mikeph52/PrevU)
+![Python versions](https://img.shields.io/pypi/pyversions/biopython)
+![OS](https://img.shields.io/badge/OS-Windows-orange)
 
 ## Usage
 With PrevU you can preview and set wallpapers from a folder of your choice. Simple as that. Better than the default Windows personalisation menu. It's built with [PyInstaller](https://pyinstaller.org/en/stable/), so python installation is not required.
